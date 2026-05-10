@@ -1,19 +1,24 @@
-- 🔭 I’m currently working on Full stack web Development
+Hi 👋, I'm Nurul Hussain
 
-🌱 I’m currently doing internship from Technoster
+🚀 About Me
 
-💬 Ask me about full stack web development
+- 💼 Currently working as a Desktop Support Engineer L2 at Cognizant
+- 🌱 Currently learning AWS, Cloud & DevOps
+- 💻 Skilled in MERN Stack Development
+- 🔭 Working on improving my skills in Full Stack Development & DevOps
+- 👨‍💻 Interested in Cloud Infrastructure, CI/CD, Docker, Kubernetes & Automation
+- 🤝 Looking to collaborate on Open Source & Cloud Projects
+- 💬 Ask me about MERN Stack, Git/GitHub, AWS & DevOps
+- ⚡ Fun fact: I love coding and continuously learning new technologies
 
-👯 Looking to collaborate on Open source projects
+🛠️ Tech Stack
 
-❤️ Love to writing code and learning new tech stack
+- Frontend: React.js, HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Cloud & DevOps: AWS, Docker, GitHub Actions, Jenkins, Kubernetes, Terraform
+- Tools: Git, GitHub, VS Code
 
-🔭 Working on Enhancing my skills in Full Stack Development
+📫 Connect With Me
 
-📫 How to reach me nurulhussain00562@gmail.com
-
-⚡ Fun fact I love participating in  coding!
-<!---
-nurulhussain9457/nurulhussain9457 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📧 Email: nurulhassan9457@gmail.com
